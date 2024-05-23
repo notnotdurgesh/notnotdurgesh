@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-of-durgesh.netlify.app/](https://portfolio-of-durgesh.netlify.app/)
 
-- 💬 Ask me about **react, Flask, express**
+- 💬 Ask me about **React, Tech, RTX 4090 **
 
 - 📫 How to reach me **durgesh.coco@gmail.com**
 
