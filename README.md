@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notnotdurgesh" alt="notnotdurgesh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/durgeshhere" target="blank"><img src="https://img.shields.io/twitter/follow/durgeshhere?logo=twitter&style=for-the-badge" alt="durgeshhere" /></a> </p>
+<p align="left"> <a href="https://x.com/durgihere" target="blank"><img src="https://img.shields.io/twitter/follow/durgeshhere?logo=twitter&style=for-the-badge" alt="durgeshhere" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs, Typescript**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about ** React, Tech, RTX 4090 **
 
-- 📫 How to reach me **durgesh.coco@gmail.com**
+- 📫 How to reach me **durgeshwantreddy@gmail.com**
 
 - ⚡ Fun fact **i think i am good at programming**
 
